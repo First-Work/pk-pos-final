@@ -1,0 +1,5 @@
+{
+  "name": "Point Of Sale",
+  "description": "A retro-modern simulation of a Point of Sale system built 'inside' Excel using VBA UserForms, powered by React and Gemini AI for sales analysis.",
+  "requestFramePermissions": []
+}
